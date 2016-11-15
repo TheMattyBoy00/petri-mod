@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "petrimod",
+  "name": "Petri Mod",
+  "description": "Better than Borgar Mod",
+  "version": "1.0",
+  "mcversion": "1.10.2",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["TheMattyBoy"],
+  "credits": "Petri for being an awesome school and Science for being the best ;)",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
